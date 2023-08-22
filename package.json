@@ -1,0 +1,15 @@
+{
+  "name": "libreoffice-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jean-Yves Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "libreoffice-convert": "^1.4.1"
+  }
+}
